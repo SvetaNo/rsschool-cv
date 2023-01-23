@@ -1,5 +1,5 @@
-#Svetlana Novikova
-#####Junior Frontend Developer
+# Svetlana Novikova
+##### Junior Frontend Developer
 - - -
 ### Contacts
 + **Location:** Kyiv, Ukraine
