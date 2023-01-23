@@ -1,24 +1,30 @@
 # Svetlana Novikova
 ##### Junior Frontend Developer
-- - -
+---
+
 ### Contacts
 + **Location:** Kyiv, Ukraine
 + **Phone:** +38(097) 222 55 77
 + **Email:** n.nsa2577@gmail.com
 + **GitHub:** [s.novikova](https://github.com/SvetaNo)
-- - -
+---
+
 ### About Me
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.  
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
-- - - 
+
+---
+
 ### Skils
 + HTML
 + CSS/SASS
 + JavaScript (Basic)
 + Git
-- - -
+---
+
 ### Code Example
 ```
+
 function sum(a, b) {
   return a + b;
 }
@@ -26,14 +32,15 @@ function sum(a, b) {
 let result = sum(1, 2);
 alert( result );
 ```
-- - - 
+--- 
 ### Education
 + **University:** Ukraine National Economic University, Economic
 + **Courses:**
     - GoIt Marathon
     - CS50 Lectures
     - HTML Academy
-- - - 
+
+--- 
 ### Languages
 + **Ukraine** - native speaker
 + **English** - A2
