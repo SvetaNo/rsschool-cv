@@ -34,3 +34,6 @@ alert( result );
     - CS50 Lectures
     - HTML Academy
 - - - 
+### Languages
++ **Ukraine** - native speaker
++ **English** - A2
