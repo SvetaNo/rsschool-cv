@@ -1,5 +1,6 @@
 # Svetlana Novikova
 ##### Junior Frontend Developer
+
 ---
 
 ### Contacts
@@ -7,6 +8,7 @@
 + **Phone:** +38(097) 222 55 77
 + **Email:** n.nsa2577@gmail.com
 + **GitHub:** [s.novikova](https://github.com/SvetaNo)
+
 ---
 
 ### About Me
@@ -20,9 +22,11 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 + CSS/SASS
 + JavaScript (Basic)
 + Git
+
 ---
 
 ### Code Example
+
 ```
 
 function sum(a, b) {
@@ -33,6 +37,7 @@ let result = sum(1, 2);
 alert( result );
 ```
 --- 
+
 ### Education
 + **University:** Ukraine National Economic University, Economic
 + **Courses:**
@@ -41,6 +46,7 @@ alert( result );
     - HTML Academy
 
 --- 
+
 ### Languages
 + **Ukraine** - native speaker
 + **English** - A2
