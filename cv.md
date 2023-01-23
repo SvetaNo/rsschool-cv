@@ -27,3 +27,10 @@ let result = sum(1, 2);
 alert( result );
 ```
 - - - 
+### Education
++ **University:** Ukraine National Economic University, Economic
++ **Courses:**
+    - GoIt Marathon
+    - CS50 Lectures
+    - HTML Academy
+- - - 
