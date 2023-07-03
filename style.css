@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(239, 248, 245);
+}
+.header, h1, span {
+    background-color: rgb(207, 187, 187);
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    line-height: 40px; 
+}
+span { 
+    margin: 300px;
+}
+.foto {
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+    padding: 0px;
+  
+}
+.foto img {
+    width: 150px;
+    height: 200px;
+
+}
+.contacts_me {
+    margin: 50px;
+}
+h3 {
+    text-align: center;
+    color: blueviolet;
+}
+p {
+    text-align: center;
+}
+
+section {
+    margin: 10px;
+    padding: 20px;
+}
+
+.footer {
+    width: 1310px;
+    margin: 0 auto;
+    height: 120px;
+}    
+.blok {
+    float: left;
+    line-height: 120px;
+    font-size: 20px;
+    width: 320px;
+    margin-right: 10px;
+    text-align: center;
+}
+.footer :last-child {
+    margin-right: 0px;
+}
